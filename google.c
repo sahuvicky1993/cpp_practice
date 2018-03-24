@@ -16,7 +16,7 @@ return p[i];
 main()
 {
 
-printf("%c\n",firstOcurrance("ADDBCBA"));
+printf("%c\n",firstOcurrance("AD,,DBCBA"));
 
 
 }
